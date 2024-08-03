@@ -1,0 +1,219 @@
+/* this is a comment */
+
+header {font-family: Lucida Grande,  Verdana Arial, Helvetica, sans-serif;
+text-align: center;
+color: black;
+width: 95%;
+padding-bottom: 0.5em;
+border-bottom: 3px solid black;
+margin-bottom: 0;
+}
+
+<!--h1{
+font-size: 200%;
+margin-bottom: 0;
+} -->
+
+h2{
+font-size: 150%;
+text-align: center;
+margin-bottom: 0;
+} 
+
+h3{
+font-size: 117%;
+text-align: left;
+margin-bottom: 0;
+} 
+
+<!-- h4{
+font-size: 100%;
+text-align: left;
+margin-bottom: 0;
+} -->
+
+h4{
+font-size: 117%;
+text-align: center;
+margin-bottom: 0;
+} 
+
+body {
+font-family: Lucida Grande, Verdana, Arial, Helvetica, sans-serif;
+font-size: 100%;
+line-height: 150%;
+ width: 96%;
+}
+
+
+li {margin: 0;
+} 
+
+ #eq {
+	word-spacing: -.2em;
+	text-align: center;
+	}
+	
+	.equation {
+	word-spacing: -.2em;
+	text-align: center;
+	}
+	
+figure {
+	float: left;
+	 margin-right:2em;
+	}
+	
+	
+	
+  figcaption {
+	font-size: 88%;
+	display: block; 
+	line-height: 120%;
+	float: left; 
+	padding-bottom: 1em;
+	border-bottom: 1px solid black;
+	} 
+	
+	#centering {
+	text-align: center;
+	}
+	
+	.center {align-center
+	}
+	
+	.text_centering {
+	text-align: center;
+	}
+	
+	#left {
+	float: left;
+	}
+	
+	.column_one {
+	width: 46%;
+	float: left;
+	padding-left: 5px;
+	}
+	
+	#col_one {
+	width: 46%;
+	float: left;
+	padding-left: 5px;
+	}
+	
+	.column_two {
+	width: 46%;
+	float: right;
+	}
+	
+	#col_two {
+	width: 46%;
+	float: right;
+	}
+	
+	#col_wide {
+	width: 96%;
+	clear: both;
+	}
+	
+	.column_wide {
+	width: 96%;
+	clear: both;
+	}
+	
+	#indent_5 {
+	text-indent: 5em;}
+	
+	.box {
+	border: 2px solid black;
+	}
+	
+	.clear {
+	clear: both;
+	}
+	
+	.wide_right {
+	margin-right: 4em;
+	}
+	
+	img {
+	/* float: left; */
+	margin-right: 1em;
+	margin-bottom: 1em;
+	} 
+	
+	.left {float: left;
+	}
+	
+	.one_hundred_five {
+	width: 105%;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	}
+	
+	.full {
+	width: 100%;
+	float: left;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	}
+	
+	.ninety {
+	width: 90%;
+	float: left;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	}
+	
+	.seventy_five {
+	width: 75%;
+	float: left;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	}
+	
+	.sixty_seven {
+	width: 67%;
+	float: left;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	}
+	
+	.fifty {
+	width: 50%;
+	float: left;
+	}
+	
+	.thirty_three {
+	width: 33%;
+	float: left;
+	margin-right: 2em;
+	margin-bottom: 2em;
+	}
+	
+	.twenty_five {
+	width: 25%;
+	float: left;
+	margin-right: 2em;
+	margin-bottom: 1em;
+	}
+	
+	.ten {
+	width: 10%;
+	float: left;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	}
+
+	
+nav {
+	font-size: 88%;
+	}
+	
+footer {
+	width: 95%;
+	clear: both;
+	}																																															}
+	
+	
